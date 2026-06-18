@@ -27,13 +27,6 @@ focus:
   - Infrastructure as Code (Terraform)
   - Containerization with Docker & Kubernetes
 
-currently_learning:
-  - GitOps with ArgoCD
-  - Advanced Kubernetes
-  - Monitoring with Prometheus & Grafana
-
-fun_fact: I enjoy building end-to-end cloud-native projects and automating deployments.
-```
 
 ## 📌 Featured Projects
 
