@@ -1,18 +1,3 @@
-# Hi there, I'm Sanket Daingade 👋
-
-🚀 **DevOps Engineer | Cloud Enthusiast**
-
-## 🛠️ Tech Stack
-
-* ☁️ AWS
-* 🐳 Docker
-* ☸️ Kubernetes
-* 🔧 Jenkins
-* 🌍 Terraform
-* ⚙️ Ansible
-* 🐧 Linux
-* 🔄 Git & GitHub
-
 ## 👨‍💻 About Me
 
 ```yaml
@@ -39,3 +24,14 @@ focus:
 
 * LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
 * Email: [your-email@example.com](mailto:your-email@example.com)
+
+## 🛠️ Tech Stack
+
+* ☁️ AWS
+* 🐳 Docker
+* ☸️ Kubernetes
+* 🔧 Jenkins
+* 🌍 Terraform
+* ⚙️ Ansible
+* 🐧 Linux
+* 🔄 Git & GitHub
