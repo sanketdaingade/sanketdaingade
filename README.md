@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sanket+Daingade+%F0%9F%91%8B;AWS+Cloud+%26+DevOps+Engineer;Building+Reliable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
@@ -90,4 +90,3 @@ fun_fact: I enjoy building real-world AWS and DevOps projects to strengthen my c
 *"Automating today for a scalable tomorrow."* ☁️🚀
 
 </div>
-````
