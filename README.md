@@ -1,57 +1,132 @@
-## 👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Sanket Daingade</h1>
+<h3 align="center">Aspiring AWS Cloud & DevOps Engineer from India 🇮🇳</h3>
 
-```yaml
-name: Sanket Daingade
-role: DevOps Engineer
+<p align="center">
+I am passionate about Cloud Computing, DevOps, and Infrastructure Automation.
+Currently building real-world AWS and DevOps projects while continuously improving my skills.
+</p>
 
-status: 🟢 Open to opportunities
+---
 
-focus:
-  - AWS Cloud
-  - CI/CD Pipelines
-  - Infrastructure as Code (Terraform)
-  - Containerization with Docker & Kubernetes
+## 🚀 About Me
 
+- 🌱 Learning **AWS Cloud, DevOps & Kubernetes**
+- ☁️ Building hands-on AWS projects
+- 🐳 Working with Docker & Kubernetes
+- ⚙️ Creating CI/CD pipelines using Jenkins
+- 🌍 Learning Infrastructure as Code with Terraform
+- 📫 Reach me: **daingadesanket1592@gmail.com**
 
-## 📌 Featured Projects
+---
 
-* AWS Three-Tier Application
-* CI/CD Pipeline using Jenkins
-* Kubernetes Deployments
-* Terraform Infrastructure as Code
+## 💻 Tech Stack
 
-## 📫 Connect with Me
+### 💬 Languages
 
-* LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+<p>
+<img src="https://skillicons.dev/icons?i=bash" />
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-## 🛠️ Tech Stack
+---
 
-### ☁️ Cloud & AWS
+### ☁️ AWS Services
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Amazon%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Amazon%20VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Amazon%20EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
 
 ### 🚀 DevOps & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
 
-### 💻 Programming
+<img src="https://skillicons.dev/icons?i=docker" />
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kubernetes" />
 
-### 🗄️ Database & Tools
+<img src="https://skillicons.dev/icons?i=terraform" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=jenkins" />
+
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux" />
+
+<img src="https://skillicons.dev/icons?i=git" />
+
+<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+<img src="https://skillicons.dev/icons?i=postman" />
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 AWS Three-Tier Web Application
+- ☁️ S3 Cross-Account Replication
+- ⚙️ Jenkins CI/CD Pipeline
+- 🐳 Docker Containerization
+- ☸️ Kubernetes Deployments
+- 🌍 Terraform Infrastructure as Code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanketdaingade&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketdaingade&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketdaingade&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/sanket-daingade-a9a2303a3">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:daingadesanket1592@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
